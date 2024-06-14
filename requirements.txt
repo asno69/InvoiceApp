@@ -1,2 +1,8 @@
-kivy
+python3
+kivy==2.3.0
+kivymd
 python-docx
+docx
+docx2pdf
+pillow
+lxml
